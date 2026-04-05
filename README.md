@@ -2,6 +2,8 @@
 
 Solar-powered MeshCore repeater node — 3D-printable enclosure, bill of materials, and build notes for [rep.skybit.cz](https://rep.skybit.cz).
 
+<img src="media/12_assembly.jpg" alt="Repeater mounted on a mast" width="500">
+
 <p align="center">
   <img src="media/preview.gif" alt="Repeater preview" width="600">
 </p>
@@ -26,6 +28,8 @@ Solar-powered MeshCore repeater node — 3D-printable enclosure, bill of materia
 
 The enclosure holder is designed in FreeCAD. Source file: [`model/solar_holder.FCStd`](model/solar_holder.FCStd)
 
+> This is the first version of the design. There are several things I would improve — especially access to some of the screws, etc. But in the end, it holds together and works.
+
 **Printable STL files** (in [`model/stl/`](model/stl/)):
 
 - `solar_holder-arm.stl`
@@ -42,9 +46,14 @@ The enclosure holder is designed in FreeCAD. Source file: [`model/solar_holder.F
 - **Never power on the device with antennas disconnected** — this can damage the RF module.
 - Watch the **battery polarity** — you may need a JST connector with swapped polarity depending on your battery pack.
 
-## First Pongs
+## First Pongs & Neighbors
+
+The farthest repeater visible from this node is **57 km** away.
 
 <img src="media/09_first_pongs.jpg" alt="First successful pongs over the mesh network" width="300">
+
+<img src="media/10_neighbors.jpg" alt="Neighbor map showing connected repeaters" width="300">
+<img src="media/11_neighbors.jpg" alt="Neighbor map detail" width="300">
 
 ## Links
 
