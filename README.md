@@ -48,12 +48,12 @@ The enclosure holder is designed in FreeCAD. Source file: [`model/solar_holder.F
 
 ## First Pongs & Neighbors
 
-The farthest repeater visible from this node is **57 km** away.
+The farthest repeater visible from this node is **85 km** away.
 
 <img src="media/09_first_pongs.jpg" alt="First successful pongs over the mesh network" width="300">
 
-<img src="media/10_neighbors.jpg" alt="Neighbor map showing connected repeaters" width="300">
-<img src="media/11_neighbors.jpg" alt="Neighbor map detail" width="300">
+<img src="media/13_neighbors.jpg" alt="Neighbor map showing connected repeaters" width="300">
+<img src="media/14_neighbors.jpg" alt="Neighbor map showing connected repeaters" width="300">
 
 ## Links
 
