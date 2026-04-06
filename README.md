@@ -59,6 +59,7 @@ The farthest repeater visible from this node is **57 km** away.
 
 - [MeshCore repeater installation guide](https://meshcore.cz/instalace_repeateru)
 - [LaskaKit ART-CZ Meshtastic baseboard](https://www.laskakit.cz/--art-cz-meshtastic-zakladni-deska/)
+- [https://mapa.sftr.cz/#/live](https://mapa.sftr.cz/#/live)
 
 ## TODO
 
