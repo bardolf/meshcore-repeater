@@ -19,6 +19,7 @@ Solar-powered MeshCore repeater node — 3D-printable enclosure, bill of materia
 | 5 | Enclosure A311 IP68 | [tme.eu](https://www.tme.eu/en/details/a311-ip68/multipurpose-enclosures/gainta/) | <img src="media/03_757409_1.webp" width="120"> |
 | 6 | DS1110-01-2B6 microphone connector (for solar input) | [tme.eu](https://www.tme.eu/en/details/ds1110-01-2b6/microphone-connectors/connfly/) | <img src="media/04_500286_1.webp" width="120"> |
 | 7 | Mikrotik antenna (or similar 868 MHz) | [i4wifi.cz](https://www.i4wifi.cz/cs/265996) | <img src="media/07_mikrotik_antenna.jpeg" width="120"> |
+| 8 | 868 MHz SAW bandpass filter (significantly improves SNR — must-have) | [aliexpress.com](https://www.aliexpress.com/item/1005006381254805.html) | <img src="media/15_saw_bandpass_filter.webp" width="120"> |
 
 ## Assembly
 
